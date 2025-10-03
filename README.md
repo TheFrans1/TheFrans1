@@ -1,3 +1,6 @@
+
+![snake gif](https://github.com/TheFrans1/TheFrans1/blob/output/github-snake-dark.svg)
+
 # 💫 About Me:
 ✨ About Me:  <br>- CTRL+C my knowledge, CTRL+V into projects  <br>- Can explain code better than my grandma understands Facebook  <br>- Making smart devices… that sometimes outsmart me<br>
 
